@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+}
+
+#quiz-container {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.question {
+    margin-bottom: 1rem;
+}
+
+.answer-option {
+    margin-bottom: 0.5rem;
+}
+
+#submit-button {
+    padding: 0.5rem 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#score-message {
+    font-weight: bold;
+}
+
+#timer {
+    margin-bottom: 1rem;
+}
